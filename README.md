@@ -1,4 +1,4 @@
-![1684726203880](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/61eb824b-9350-4e2d-8f63-d4ae1b022de8)
+![my_banner](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/ae067e8a-b371-4bdb-a2c3-afa8de810c75)
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
