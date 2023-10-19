@@ -1,4 +1,5 @@
-![my_babbaba](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/a7f27eee-d3f4-49f5-99cd-80baf7fdf093)
+
+![minimalist content writer profile banner(1)](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/28234f59-34be-4d8c-9db9-8bdaad0b8ce9)
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
