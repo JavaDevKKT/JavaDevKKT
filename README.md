@@ -1,5 +1,5 @@
 
-![minimalist content writer profile banner(1)](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/28234f59-34be-4d8c-9db9-8bdaad0b8ce9)
+![minimalist content writer profile banneroo](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/c0a532d6-ed8f-42de-acf1-0ce7ed2b9c77)
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
