@@ -1,6 +1,6 @@
 
 
-![Black Minimal Business Personal Profile Linkedin Banner (2)](https://github.com/JavaDevKKT/JavaDevKKT/assets/147974177/69e1d3fe-8982-41c3-af9e-c7c27469e048)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/8e467c82-c95a-43c7-baba-04052bb2f5ac)
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
