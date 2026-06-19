@@ -1,6 +1,6 @@
 
 
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/8e467c82-c95a-43c7-baba-04052bb2f5ac)
+<img width="1584" height="396" alt="Black Monochrome Business LinkedIn Banner" src="https://github.com/user-attachments/assets/14a8c2f2-d43b-430f-8145-5aaac87b546c" />
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
