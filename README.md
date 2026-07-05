@@ -1,6 +1,6 @@
 
 
-<img width="1584" height="396" alt="Black Monochrome Business LinkedIn Banner" src="https://github.com/user-attachments/assets/14a8c2f2-d43b-430f-8145-5aaac87b546c" />
+<img width="1983" height="793" alt="myimagessss" src="https://github.com/user-attachments/assets/78893d03-dded-45a1-9b46-f49916922f32" />
 
 <h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
 <h3 align="center">A passionate java backend developer from India</h3>
