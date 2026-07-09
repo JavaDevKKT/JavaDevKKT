@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Krishna Kant Tiwari</h1>
 
 <h3 align="center">
-Senior Java Backend Developer | Spring Boot | Microservices | REST APIs | Java 21
+Senior Java Backend Developer | Spring Boot | Microservices | REST APIs | Java 8/17
 </h3>
 
 <p align="center">
@@ -74,7 +74,7 @@ Spring Boot • JWT • Spring Security • MySQL
 Spring Boot • REST API • JPA • Docker
 
 ### E-Commerce Microservices
-Java 21 • Spring Cloud • Kafka • Docker
+Java 8/17 • Spring Cloud • Kafka • Docker
 
 ### PromptHR
 Enterprise HR Management System
