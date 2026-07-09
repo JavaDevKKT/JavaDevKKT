@@ -7,9 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javadevkkt&label=Profile%20views&color=0e75b6&style=flat" alt="javadevkkt" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/krishnakanttiwari/"><img src="https://github-profile-trophy.vercel.app/?username=javadevkkt" alt="javadevkkt" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@tiwari_k_k" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwari_k_k?logo=twitter&style=for-the-badge" alt="@tiwari_k_k" /></a> </p>
+
+<p align="left"> <a href="https://www.linkedin.com/in/krishnakanttiwari/"><img src="https://github-profile-trophy.vercel.app/?username=javadevkkt" alt="javadevkkt" /></a> </p>
+
 
 - 📫 How to reach me **javadevkkt@gmail.com**
 
