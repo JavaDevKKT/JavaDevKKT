@@ -1,29 +1,131 @@
+<img width="1983" alt="GitHub Banner" src="https://github.com/user-attachments/assets/78893d03-dded-45a1-9b46-f49916922f32" />
 
+<h1 align="center">Hi 👋, I'm Krishna Kant Tiwari</h1>
 
-<img width="1983" height="793" alt="myimagessss" src="https://github.com/user-attachments/assets/78893d03-dded-45a1-9b46-f49916922f32" />
+<h3 align="center">
+Senior Java Backend Developer | Spring Boot | Microservices | REST APIs | Java 21
+</h3>
 
-<h1 align="center">Hi 👋, I'm KRISHNA KANT TIWARI</h1>
-<h3 align="center">A passionate java backend developer from India</h3>
+<p align="center">
+Building scalable, secure, and high-performance backend applications.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javadevkkt&label=Profile%20views&color=0e75b6&style=flat" alt="javadevkkt" /> </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=javadevkkt&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
+---
 
-<p align="left"> <a href="https://twitter.com/@tiwari_k_k" target="blank"><img src="https://img.shields.io/twitter/follow/@tiwari_k_k?logo=twitter&style=for-the-badge" alt="@tiwari_k_k" /></a> </p>
+# 👨‍💻 About Me
 
-<p align="left"> <a href="https://www.linkedin.com/in/krishnakanttiwari/"><img src="https://github-profile-trophy.vercel.app/?username=javadevkkt" alt="javadevkkt" /></a> </p>
+- 💼 Software Engineer with **7+ years** of experience
+- ☕ 3+ Years of Java Backend Development
+- 📱 4 Years of Android Application Development
+- 🚀 Specializing in Enterprise Java Applications
+- 🌱 Currently learning **System Design, Kubernetes & AWS**
+- 💬 Ask me about Java, Spring Boot, REST APIs, Microservices, JWT, Hibernate & MySQL
+- 📫 Email: **javadevkkt@gmail.com**
+- 🌍 Location: India
+- ⚡ Goal: Build production-grade backend systems for millions of users.
 
+---
 
-- 📫 How to reach me **javadevkkt@gmail.com**
+# 🚀 Tech Stack
 
-<h3 align="left">Connect with me:</h3>
+### Backend
+
+![Java](https://img.shields.io/badge/Java-21-red?style=for-the-badge&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-green?style=for-the-badge&logo=springboot)
+![Spring Security](https://img.shields.io/badge/Spring_Security-success?style=for-the-badge)
+![Hibernate](https://img.shields.io/badge/Hibernate-orange?style=for-the-badge)
+![JPA](https://img.shields.io/badge/JPA-blue?style=for-the-badge)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge&logo=redis)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### Microservices
+
+- Spring Cloud
+- Eureka
+- API Gateway
+- OpenFeign
+- Resilience4j
+- Kafka
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-black?style=for-the-badge&logo=githubactions)
+
+---
+
+# 🌟 Featured Projects
+
+### Employee Management System
+Spring Boot • JWT • Spring Security • MySQL
+
+### Hotel Booking System
+Spring Boot • REST API • JPA • Docker
+
+### E-Commerce Microservices
+Java 21 • Spring Cloud • Kafka • Docker
+
+### PromptHR
+Enterprise HR Management System
+
+### Authentication Service
+JWT • Spring Security • Refresh Tokens
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=javadevkkt&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=javadevkkt&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=javadevkkt&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=javadevkkt&theme=tokyonight&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
 <p align="left">
 
+<a href="https://www.linkedin.com/in/krishnakanttiwari/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<a href="mailto:javadevkkt@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javadevkkt&show_icons=true&locale=en&layout=compact" alt="javadevkkt" /></p>
+<a href="https://github.com/JavaDevKKT">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javadevkkt&show_icons=true&locale=en" alt="javadevkkt" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javadevkkt&" alt="javadevkkt" /></p>
+---
+
+⭐ If you like my work, don't forget to star my repositories.
