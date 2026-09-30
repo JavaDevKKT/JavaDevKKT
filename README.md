@@ -1,4 +1,4 @@
-<img width="1983" alt="GitHub Banner" src="https://github.com/user-attachments/assets/78893d03-dded-45a1-9b46-f49916922f32" />
+<img width="2164" height="726" alt="Banner" src="https://github.com/user-attachments/assets/0b6f4452-082e-43c0-8725-87cafb0e681d" />
 
 <h1 align="center">Hi 👋, I'm Krishna Kant Tiwari</h1>
 
